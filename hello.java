@@ -1,6 +1,3 @@
-import javax.sound.midi.SysexMessage;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 // public class hello {
 //     public static void main (String[] args){
 //         System.out.println("Hello world");
